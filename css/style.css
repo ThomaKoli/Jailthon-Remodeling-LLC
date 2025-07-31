@@ -6,7 +6,7 @@
 
 :root {
     --navy-blue: #0a2342;
-    --gold-accent: #d4af37;
+    --gold-accent: #b8860b;
     /* A classic, warm gold */
     --crisp-white: #ffffff;
     --light-gray: #f4f4f4;
@@ -532,7 +532,7 @@ section {
 -------------------------------------------------- */
 .main-footer {
     background-color: var(--navy-blue);
-    color: #a9b3c1;
+    color: #c5cdd8;
     padding: 60px 0 20px 0;
 }
 
